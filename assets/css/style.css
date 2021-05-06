@@ -1,8 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
-@-ms-viewport{
-  width: device-width;
-}
 :root {
   --main-color: #442442;
   --primary-color: rgb(6, 6, 156);
